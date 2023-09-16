@@ -1,3 +1,6 @@
 # Table of contents
 
-* [Page](README.md)
+## Cross site scripting
+
+* [Introduction](README.md)
+* [Reflected xss](cross-site-scripting/reflected-xss.md)
