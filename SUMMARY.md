@@ -2,5 +2,4 @@
 
 ## Cross site scripting
 
-* [Introduction](README.md)
-* [Reflected xss](cross-site-scripting/reflected-xss.md)
+* [Untitled](README.md)
